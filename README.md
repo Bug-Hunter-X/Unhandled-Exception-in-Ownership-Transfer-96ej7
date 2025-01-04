@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with an unhandled exception in the ownership transfer function.  The bug arises from insufficient input validation, which could allow malicious actors to exploit the contract.  The solution demonstrates robust error handling and input validation to prevent this vulnerability.
